@@ -1,0 +1,8 @@
+﻿{
+  "AzureAd": {
+    "ClientId": "720f2c74-cd37-4142-89d8-a770df7956ca",
+    "Tenant": "mofasiul.onmicrosoft.com",
+    "AadInstance": "https://login.microsoftonline.com/{0}", // This is the public instance of Azure AD
+    "PostLogoutRedirectUri": "http://localhost:2733/"
+  }
+}
